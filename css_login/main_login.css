@@ -6,7 +6,7 @@
 
 body {
     background: #dc3545 ;
-    background-image: url(/login/css/0_loginimage.jpeg);
+    background-image: url(/css_login/0_loginimage.jpeg);
     display: flex;
     justify-content: center;
     align-items: center;
